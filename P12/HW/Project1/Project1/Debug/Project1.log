@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\user\程式作業\107360243_林庭佑3\p12\source\source.c(7): warning C4013: 'square' 未定義; 假設 extern 傳回整數
+  Project1.vcxproj -> C:\Users\User\程式作業\107360243_林庭佑3\P12\HW\Project1\Debug\Project1.exe
